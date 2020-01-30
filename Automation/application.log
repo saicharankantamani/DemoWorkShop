@@ -1,0 +1,17 @@
+2020-01-11 17:32:55,734  INFO [main] BaseClassActi:23 - *********browser opened*****
+2020-01-11 17:51:48,621  INFO [main] BaseClassActi:23 - *********browser opened*****
+2020-01-11 17:57:40,849  INFO [main] BaseClassActi:23 - *********browser opened*****
+2020-01-11 17:57:42,015  INFO [main] BaseClassActi:25 - url entered
+2020-01-11 17:57:42,323  INFO [main] BaseClassActi:29 - un enetered
+2020-01-11 17:57:42,615  INFO [main] BaseClassActi:31 - pwd entered
+2020-01-11 17:57:44,867  INFO [main] BaseClassActi:21 - test started
+2020-01-11 18:01:53,001  INFO [main] BaseClassActi:23 - *********browser opened*****
+2020-01-11 18:01:54,703  INFO [main] BaseClassActi:25 - url entered
+2020-01-11 18:01:54,977  INFO [main] BaseClassActi:29 - un enetered
+2020-01-11 18:01:55,125  INFO [main] BaseClassActi:31 - pwd entered
+2020-01-11 18:02:06,065  INFO [main] BaseClassActi:21 - test started
+2020-01-11 18:02:48,792 FATAL [main] BaseClassActi:44 - failure
+2020-01-11 18:06:06,328  INFO [main] BaseClassActi:23 - *********browser opened*****
+2020-01-11 18:06:07,312  INFO [main] BaseClassActi:25 - url entered
+2020-01-11 18:06:07,536  INFO [main] BaseClassActi:29 - un enetered
+2020-01-11 18:06:07,734  INFO [main] BaseClassActi:31 - pwd entered

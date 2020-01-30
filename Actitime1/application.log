@@ -1,0 +1,219 @@
+2020-01-27 18:44:07,369  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 18:44:12,547  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 19:01:11,997  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 19:01:12,832  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 19:01:13,033  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-27 19:01:14,102  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-27 19:04:45,181  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 19:04:45,675  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 19:04:45,905  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-27 19:04:46,788  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-27 19:08:17,457  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 19:08:17,940  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 19:08:18,047  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-27 19:08:18,510  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-27 19:09:25,804  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 19:09:26,348  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 19:09:26,465  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-27 19:09:26,815  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-27 19:15:41,552  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 19:15:42,255  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 19:15:42,430  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-27 19:15:42,944  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-27 19:18:06,126  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 19:18:10,571  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 19:18:11,118  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-27 19:18:11,837  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-27 23:47:18,218  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 23:47:18,860  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 23:47:19,096  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-27 23:47:19,783  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-27 23:48:23,221  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-27 23:48:24,090  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-27 23:48:25,190  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-27 23:48:26,348  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-28 14:31:16,829  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-28 14:31:18,642  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-28 14:31:18,920  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-28 14:31:19,647  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-28 15:16:15,483  INFO [main] AddNewCustomer:28 - click on add new customer  
+2020-01-28 15:16:15,941  INFO [main] AddNewCustomer:27 - Enter customer name
+2020-01-28 15:16:16,061  INFO [main] AddNewCustomer:32 - click on Submit Button
+2020-01-28 15:16:16,584  INFO [main] AddNewCustomer:36 - retrive succes msg
+2020-01-28 15:55:36,054  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-28 15:55:36,445  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-28 15:55:36,577  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-28 15:55:37,109  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-28 15:55:37,151  INFO [main] AddNewCustomer:38 - retrive succes msg
+2020-01-28 15:58:20,833  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-28 15:58:22,238  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-28 15:58:22,569  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-28 15:58:23,513  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-28 15:58:23,628  INFO [main] AddNewCustomer:38 - retrive succes msg
+2020-01-28 16:06:05,270  INFO [main] BaseClass:49 - user name entered
+2020-01-28 16:06:05,958  INFO [main] BaseClass:52 - password enterd
+2020-01-28 16:06:06,166  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-28 16:06:11,255  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-28 16:06:12,110  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-28 16:06:12,234  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-28 16:06:12,854  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-28 16:06:12,924  INFO [main] AddNewCustomer:38 - retrive succes msg
+2020-01-28 16:06:13,173  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-28 16:06:13,177  INFO [main] BaseClass:41 - browser closed
+2020-01-29 19:27:31,843  INFO [main] BaseClass:49 - user name entered
+2020-01-29 19:27:32,399  INFO [main] BaseClass:52 - password enterd
+2020-01-29 19:27:36,599  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-29 19:27:39,206  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-29 19:27:40,301  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-29 19:27:40,632  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-29 19:27:41,634  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-29 19:27:56,193  INFO [main] BaseClass:41 - browser closed
+2020-01-30 16:19:02,100  INFO [main] BaseClass:49 - user name entered
+2020-01-30 16:19:02,811  INFO [main] BaseClass:52 - password enterd
+2020-01-30 16:19:03,157  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 16:19:11,570  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 16:19:12,672  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 16:19:12,975  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 16:19:14,446  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 16:19:14,737  INFO [main] AddNewCustomer:38 - retrive succes msg
+2020-01-30 16:19:16,197  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 16:19:16,207  INFO [main] BaseClass:41 - browser closed
+2020-01-30 16:23:00,757  INFO [main] BaseClass:49 - user name entered
+2020-01-30 16:23:01,357  INFO [main] BaseClass:52 - password enterd
+2020-01-30 16:23:01,537  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 16:23:03,948  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 16:23:04,760  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 16:23:05,004  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 16:23:05,841  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 16:23:05,956  INFO [main] AddNewCustomer:38 - retrive succes msg
+2020-01-30 16:23:06,439  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 16:23:06,453  INFO [main] BaseClass:41 - browser closed
+2020-01-30 16:28:53,289  INFO [main] BaseClass:49 - user name entered
+2020-01-30 16:28:53,847  INFO [main] BaseClass:52 - password enterd
+2020-01-30 16:28:54,043  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 16:28:56,371  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 16:28:57,321  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 16:28:57,565  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 16:28:58,459  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 16:28:58,573  INFO [main] AddNewCustomer:38 - retrive succes msg
+2020-01-30 16:28:59,175  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 16:28:59,186  INFO [main] BaseClass:41 - browser closed
+2020-01-30 16:33:19,260  INFO [main] BaseClass:49 - user name entered
+2020-01-30 16:33:19,859  INFO [main] BaseClass:52 - password enterd
+2020-01-30 16:33:20,067  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 16:33:23,587  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 16:33:24,517  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 16:33:24,694  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 16:33:25,519  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 16:33:25,636  INFO [main] AddNewCustomer:38 - retrive succes msg
+2020-01-30 16:33:26,398  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 16:33:26,413  INFO [main] BaseClass:41 - browser closed
+2020-01-30 18:37:24,096  INFO [main] BaseClass:49 - user name entered
+2020-01-30 18:37:24,304  INFO [main] BaseClass:52 - password enterd
+2020-01-30 18:37:24,371  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 18:37:26,290  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 18:37:26,576  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 18:37:26,670  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 18:37:26,967  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 18:37:27,002  INFO [main] AddNewCustomer:38 - retrive succes msg
+2020-01-30 18:37:27,231  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 18:37:27,235  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:23:25,595  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:23:26,099  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:23:26,294  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:23:28,698  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:23:29,544  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:23:29,803  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:23:30,502  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:24:01,124  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:24:01,196  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:26:00,619  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:26:00,960  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:26:01,187  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:26:08,111  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:26:08,910  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:26:09,237  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:26:10,153  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:26:40,518  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:26:40,567  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:29:47,850  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:29:48,393  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:29:48,872  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:30:02,109  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:30:02,998  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:30:03,272  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:30:04,020  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:30:34,396  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:30:34,406  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:35:43,569  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:35:44,127  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:35:44,324  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:35:46,641  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:35:47,978  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:35:48,190  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:35:48,738  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:36:19,123  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:36:19,136  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:38:38,899  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:38:39,459  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:38:39,655  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:38:41,916  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:38:43,013  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:38:43,480  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:38:45,365  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:39:15,824  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:39:15,901  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:42:03,192  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:42:03,795  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:42:03,979  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:42:09,146  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:42:09,862  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:42:10,066  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:42:10,567  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:42:41,057  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:42:41,125  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:45:30,696  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:45:31,342  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:45:31,533  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:45:36,633  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:45:37,675  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:45:37,900  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:45:38,473  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:46:08,858  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:46:08,912  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:47:56,004  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:47:56,470  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:47:56,658  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:48:01,643  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:48:02,423  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:48:02,599  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:48:03,147  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:48:34,432  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:48:34,442  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:50:07,459  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:50:08,019  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:50:08,216  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:50:13,874  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:50:14,504  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:50:14,676  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:50:15,143  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:50:46,509  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:50:46,529  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:55:52,319  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:55:52,807  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:55:53,009  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:55:58,845  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:55:59,541  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:55:59,782  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:56:00,583  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:56:31,826  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:56:31,843  INFO [main] BaseClass:41 - browser closed
+2020-01-30 20:58:09,889  INFO [main] BaseClass:49 - user name entered
+2020-01-30 20:58:10,454  INFO [main] BaseClass:52 - password enterd
+2020-01-30 20:58:10,651  INFO [main] BaseClass:54 - clicked on subbmit button
+2020-01-30 20:58:13,043  INFO [main] OpenTasks:26 - ******************clickd on projects and customers link******
+2020-01-30 20:58:13,875  INFO [main] AddNewCustomer:30 - click on add new customer  
+2020-01-30 20:58:14,129  INFO [main] AddNewCustomer:31 - Enter customer name
+2020-01-30 20:58:14,795  INFO [main] AddNewCustomer:37 - click on Submit Button
+2020-01-30 20:58:46,059  INFO [main] BaseClass:61 - clicked on logout bottuon
+2020-01-30 20:58:46,081  INFO [main] BaseClass:41 - browser closed

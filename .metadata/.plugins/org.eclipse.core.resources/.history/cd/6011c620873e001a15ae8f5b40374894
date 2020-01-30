@@ -1,0 +1,22 @@
+package com.actitime.qa.testcases;
+
+import com.actitime.qa.testbase.BaseClass;
+import com.actitime.webpages.ActiveProjectsandCustomers;
+import com.actitime.webpages.AddNewCustomer;
+import com.actitime.webpages.Loginpage;
+
+public class CreateCustomer extends BaseClass{
+public void CreateCustomer()
+{
+	intialise();
+	Loginpage lp=new Loginpage();
+	lp.login();
+	ActiveProjectsandCustomers apc=new ActiveProjectsandCustomers();
+	apc.clickonapc();
+	AddNewCustomer anc=new AddNewCustomer();
+	anc.entercnname();
+	anc.cliconsubmmit();
+	apc.rtrivesuccsmsg();
+	
+}
+}

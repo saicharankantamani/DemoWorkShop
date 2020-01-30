@@ -1,0 +1,21 @@
+package com.actitime.webpages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.actitime.qa.testbase.BaseClass;
+
+public class OpenTasks {
+	@FindBy(linkText = "Projects & Customers")
+	private WebElement projectandcustomerslink;
+	public OpenTasks()
+	{
+		PageFactory.initElements(BaseClass.driver, this);
+	}
+	public void clickonpandc() {
+		projectandcustomerslink.click();
+		
+		}
+
+}

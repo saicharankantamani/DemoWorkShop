@@ -1,0 +1,10 @@
+package com.actitime.qa.testcases;
+
+import com.actitime.webpages.Loginpage;
+
+public class CreateCustomer {
+public void CreateCustomer()
+{
+	Loginpage lp=new 
+}
+}

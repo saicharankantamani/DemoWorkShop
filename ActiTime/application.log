@@ -1,0 +1,32 @@
+2020-01-24 22:44:52,647  INFO [main] AddNewCustomer:31 - open browser
+2020-01-24 22:44:53,892  INFO [main] AddNewCustomer:33 - enter url
+2020-01-24 22:44:54,042  INFO [main] AddNewCustomer:30 - enter username
+2020-01-24 22:44:54,355  INFO [main] AddNewCustomer:32 - enter password
+2020-01-24 22:44:54,579  INFO [main] AddNewCustomer:34 - click on login
+2020-01-24 22:44:54,776  INFO [main] AddNewCustomer:22 - click on prrojects and customers link
+2020-01-24 22:44:57,468  INFO [main] AddNewCustomer:25 - click on add new customer  
+2020-01-24 22:44:58,566  INFO [main] AddNewCustomer:28 - Enter customer name
+2020-01-24 22:44:59,006  INFO [main] AddNewCustomer:33 - click on Submit Button
+2020-01-24 22:45:01,133  INFO [main] AddNewCustomer:33 - retrive succes msg
+2020-01-24 22:45:01,203  INFO [main] AddNewCustomer:39 - click on logout
+2020-01-24 22:45:01,742  INFO [main] AddNewCustomer:44 - close browser
+2020-01-25 22:36:35,811  INFO [main] AddNewCustomer:31 - open browser
+2020-01-25 22:36:36,902  INFO [main] AddNewCustomer:33 - enter url
+2020-01-25 22:36:37,165  INFO [main] AddNewCustomer:30 - enter username
+2020-01-25 22:36:37,461  INFO [main] AddNewCustomer:32 - enter password
+2020-01-25 22:36:37,643  INFO [main] AddNewCustomer:34 - click on login
+2020-01-25 22:36:37,864  INFO [main] AddNewCustomer:22 - click on prrojects and customers link
+2020-01-25 22:36:40,788  INFO [main] AddNewCustomer:25 - click on add new customer  
+2020-01-25 22:36:41,739  INFO [main] AddNewCustomer:28 - Enter customer name
+2020-01-25 22:36:42,339  INFO [main] AddNewCustomer:33 - click on Submit Button
+2020-01-25 22:36:43,182  INFO [main] AddNewCustomer:33 - retrive succes msg
+2020-01-26 12:18:53,650  INFO [main] AddNewCustomer:31 - open browser
+2020-01-26 12:18:54,431  INFO [main] AddNewCustomer:33 - enter url
+2020-01-26 12:18:54,647  INFO [main] AddNewCustomer:30 - enter username
+2020-01-26 12:18:54,847  INFO [main] AddNewCustomer:32 - enter password
+2020-01-26 12:18:54,998  INFO [main] AddNewCustomer:34 - click on login
+2020-01-26 12:18:55,203  INFO [main] AddNewCustomer:22 - click on prrojects and customers link
+2020-01-26 12:18:57,671  INFO [main] AddNewCustomer:25 - click on add new customer  
+2020-01-26 12:18:58,661  INFO [main] AddNewCustomer:28 - Enter customer name
+2020-01-26 12:18:59,031  INFO [main] AddNewCustomer:33 - click on Submit Button
+2020-01-26 12:18:59,880  INFO [main] AddNewCustomer:33 - retrive succes msg

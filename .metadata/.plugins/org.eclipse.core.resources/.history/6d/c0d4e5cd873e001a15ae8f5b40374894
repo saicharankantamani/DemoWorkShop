@@ -1,0 +1,28 @@
+package com.actitime.webpages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.actitime.qa.testbase.BaseClass;
+
+public class Loginpage extends BaseClass {
+	
+	@FindBy(name="username")
+private WebElement un;
+	@FindBy(name="pwd")
+	private WebElement psd;
+	@FindBy(css="input[type='submit']")
+	private WebElement loginnow;
+	public  Loginpage()
+	{
+		PageFactory.initElements(BaseClass.driver, this);
+	}
+	public OpenTasks login()
+	{
+		un.sendKeys(pro.getProperty("un"));
+		psd.sendKeys(pro.getProperty("pwd"));
+		loginnow.click();
+		return new OpenTasks();
+	}
+	}

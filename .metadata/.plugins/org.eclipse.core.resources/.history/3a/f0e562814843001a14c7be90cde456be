@@ -1,0 +1,25 @@
+package com.actitime1.generics;
+
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.testng.ITestContext;
+import org.testng.ITestListener;
+import org.testng.TestListenerAdapter;
+
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+
+import freemarker.template.SimpleDate;
+
+public class Listeners extends TestListenerAdapter {
+	ExtentHtmlReporter Extent;
+	public void Onstart(ITestContext rv)
+	{
+		String Date=new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());
+		String s="testreport"+Date+rv.getName();
+		Extent =new ExtentHtmlReporter(System.getProperty("userr.dir")+"/test-output/"+s);
+	}
+	
+
+}

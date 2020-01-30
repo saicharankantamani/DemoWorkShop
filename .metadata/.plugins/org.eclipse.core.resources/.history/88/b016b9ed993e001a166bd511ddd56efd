@@ -1,0 +1,32 @@
+package com.actitime.webpages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.actitime.qa.testbase.BaseClass;
+
+public class ActiveProjectsandCustomers extends BaseClass {
+	@FindBy(css="input[value='Add New Customer']")
+private WebElement addNewcustomerbutton;
+	@FindBy(className = "successmsg")
+	private WebElement retrivesuccesmsg;
+	public ActiveProjectsandCustomers()
+	{
+		PageFactory.initElements(BaseClass.driver, this);
+	}
+	public void clickonapc()
+	
+	{
+		addNewcustomerbutton.click();
+	
+		
+		
+	}
+	public String rtrivesuccsmsg()
+	{
+		String s=retrivesuccesmsg.getText();
+		return s;
+
+	}
+}

@@ -1,0 +1,28 @@
+package com.actitime.qa.testbase;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class BaseClass {
+	public WebDriver driver;
+	Properties pro;
+	public void OpenBrowser() throws IOException {
+		FileInputStream fis =new FileInputStream("C:\\Users\\hp\\eclipse-workspace\\ActiTime\\src\\main\\java\\com\\actitime\\qa\\config\\config.properties");
+		 pro=new Properties();
+		pro.load(fis);
+	}
+	public void intialise()
+	{
+		System.setProperty("webdriver.chrome.driver","C://drivers/chromedriver.exe");
+		driver=new ChromeDriver();
+		driver.get(pro.getProperty("url"));
+		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+	}
+
+}

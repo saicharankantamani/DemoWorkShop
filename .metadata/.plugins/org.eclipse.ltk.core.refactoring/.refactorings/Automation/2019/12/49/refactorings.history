@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;actiTime.TestScript18&apos; to &apos;Createcustomer&apos;&#x0D;&#x0A;- Original project: &apos;Automation&apos;&#x0D;&#x0A;- Original element: &apos;actiTime.TestScript18&apos;&#x0D;&#x0A;- Renamed element: &apos;actiTime.Createcustomer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TestScript18&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;actiTime{TestScript18.java[TestScript18" matchStrategy="1" name="Createcustomer" qualified="false" references="true" similarDeclarations="false" stamp="1575700552089" textual="false" version="1.0"/>
+</session>

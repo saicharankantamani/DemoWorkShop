@@ -1,0 +1,26 @@
+package com.actitime.webpages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.actitime.qa.testbase.BaseClass;
+
+public class AddNewCustomer extends BaseClass{
+	@FindBy(name = "name")
+private WebElement cntextfield;
+	@FindBy(name = "createCustomerSubmit")
+	private WebElement SubmitButton;
+	public AddNewCustomer()
+	{
+		PageFactory.initElements(BaseClass.driver, this);
+	}
+	public void entercnname()
+	{
+		cntextfield.sendKeys("sfdf 1531hhgrsr5353dgdygdftadfhahafd");
+	}
+	public void cliconsubmmit()
+	{
+		SubmitButton.click();
+	}
+}
