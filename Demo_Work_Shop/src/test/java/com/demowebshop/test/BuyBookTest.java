@@ -16,7 +16,7 @@ public class BuyBookTest extends TestBase{
 	public CheckOutPage checkOutPage;
 	
 	
-	@Test(priority = 1)
+	@Test()
 	public void loginTest() {
 		homePage = new HomePage();
 		loginPage = new LoginPage();
@@ -28,7 +28,7 @@ public class BuyBookTest extends TestBase{
 		Assert.assertEquals(accountId, "atest@gmail.com");
 	}
 	
-	@Test(priority = 2)
+	@Test(dependsOnMethods = {"loginTest"})
 	public void addProduct() throws InterruptedException {
 		shoppingCartPage = new ShoppingCartPage();
 		String cartSussMsg = shoppingCartPage.clearCartItems();
@@ -36,7 +36,7 @@ public class BuyBookTest extends TestBase{
 		Assert.assertEquals(cartSussMsg, "The product has been added to your shopping cart");
 		}
 	
-	@Test(priority = 3)
+	@Test(dependsOnMethods = {"loginTest", "addProduct"})
 	public void checkoutTest() {
 		checkOutPage = new CheckOutPage();
 		shoppingCartPage.clickOnCheckout();
@@ -46,7 +46,7 @@ public class BuyBookTest extends TestBase{
 		Assert.assertEquals(checkOutMsg, "You will pay by COD");
 	}
 	
-	@Test(priority = 4)
+	@Test(dependsOnMethods = {"loginTest","addProduct","checkoutTest"})
 	public void confirmTest() {
 		String msg = checkOutPage.orderConformation();
 		Assert.assertEquals(msg, "Your order has been successfully processed!");
